@@ -1,17 +1,40 @@
-This is a training web page of the DA´, coded by the group 230.
-My part were:
-- login
-- sign up
-- summary
+# JOIN – Kanban Task Management App
 
-MIT License
+JOIN is a web-based task management application inspired by the Kanban workflow. Users can create, edit, organize, and assign tasks to contacts. The goal of this project was to build a fully functional single-page application with clean logic, structured code, and a responsive user interface.
 
-Copyright (c) 2024 Meik Behr
+## 🔧 Tech Stack
+- HTML5
+- CSS / SCSS
+- JavaScript (Vanilla)
+- REST API (JSON)
+- Git & GitHub
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## 🚀 Live Demo
+👉 https://develobehr.de/join/
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## 📂 Repository
+👉 https://github.com/MeikBehr/Join
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## ✅ Features
+- Create, edit and delete tasks
+- Kanban board with drag & drop
+- Contact management
+- Task status management (To Do, In Progress, Awaiting Feedback, Done)
+- Local data storage / API integration
+- Fully responsive design
 
-(https://opensource.org/license/mit)
+## 🧠 My Contribution & Learning Goals
+- Structuring a larger JavaScript application without a framework
+- State management with vanilla JavaScript
+- Working with REST-based data
+- Clean code structuring and modularization
+- Implementing a complete frontend project from concept to live deployment
+
+## 🎓 Project Background
+This project was developed as part of the **Frontend Developer training program at the Developer Akademie**.
+
+## 📌 Status
+Project completed and fully functional.
+
+## 📄 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
