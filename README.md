@@ -1,6 +1,8 @@
 # JOIN – Kanban Task Management App
 
-JOIN is a web-based task management application inspired by the Kanban workflow. Users can create, edit, organize, and assign tasks to contacts. The goal of this project was to build a fully functional single-page application with clean logic, structured code, and a responsive user interface.
+JOIN is a web-based task management application inspired by the Kanban workflow. Users can create, edit, organize, and assign tasks to contacts. The application is designed as a single-page frontend project with structured logic, clean UI and responsive layout.
+
+This repository is based on a collaborative training project. My personal focus and contribution are clearly documented below.
 
 ## 🔧 Tech Stack
 - HTML5
@@ -15,20 +17,33 @@ JOIN is a web-based task management application inspired by the Kanban workflow.
 ## 📂 Repository
 👉 https://github.com/MeikBehr/Join
 
-## ✅ Features
-- Create, edit and delete tasks
+## ✅ Core Features
+- User login and signup
+- Task creation, editing and deletion
 - Kanban board with drag & drop
 - Contact management
 - Task status management (To Do, In Progress, Awaiting Feedback, Done)
+- Responsive design for desktop and mobile
 - Local data storage / API integration
-- Fully responsive design
 
-## 🧠 My Contribution & Learning Goals
-- Structuring a larger JavaScript application without a framework
-- State management with vanilla JavaScript
-- Working with REST-based data
-- Clean code structuring and modularization
-- Implementing a complete frontend project from concept to live deployment
+---
+
+## 🧠 My Personal Contribution
+
+Within the project team, I was mainly responsible for the following areas:
+
+- Implementation of **Login and Sign Up system**
+- Development of the **Summary (dashboard) view**
+- Functional validation and bug fixing in the final project phase
+- Technical support for teammates during critical development phases
+- Active coordination via **Discord**, including:
+  - Communication with the team
+  - Documentation of decisions
+  - Writing internal process notes and protocols
+
+This allowed me to gain deep insights into collaborative frontend development, problem solving under time pressure and structured teamwork.
+
+---
 
 ## 🎓 Project Background
 This project was developed as part of the **Frontend Developer training program at the Developer Akademie**.
